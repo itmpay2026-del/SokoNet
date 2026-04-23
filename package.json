@@ -1,0 +1,1 @@
+{\n  "name": "SokoNet",\n  "private": true,\n  "workspaces": [\n    "frontend/",\n    "backend/",\n    "database/",\n    "ussd/"\n  ]\n}
